@@ -1,4 +1,4 @@
-# Proyecto usado para provar funcionalidad de Ansible en ambinetes de laboratorio
+# Proyecto usado para Ansible en ambinetes de laboratorio
 ## Aprende a Crear una Cuenta Regresiva Fácil y Rapido con Javascript | SimplyCountdown.js
 ### [Tutorial: https://youtu.be/UMpqdZKJV7M](https://youtu.be/UMpqdZKJV7M)
 
