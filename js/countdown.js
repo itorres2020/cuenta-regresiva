@@ -1,4 +1,5 @@
 simplyCountdown('#cuenta', {
+	//se define como hora 1 de nov de 2025 a las 13 con 22 y 19 seg
 	year: 2025, // required
 	month: 11, // required
 	day: 1, // required
